@@ -11,7 +11,7 @@ Python is no doubt an amazing language. It was created byÂ **Guido Van Rossum**Â
 
 Python is often referred to as a High-Level Programming Language, which leads us to our first question.
 
-<img src="https://github.com/hemansnation/Data-Science-ML-Full-Stack/blob/master/images/components.png" alt="Introduction to Python" />
+<img src="https://raw.githubusercontent.com/hemansnation/God-Level-Data-Science-ML-Full-Stack/master/images/components.png" alt="Introduction to Python" />
 
 ## Python Basics
 
